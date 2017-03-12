@@ -1,0 +1,7 @@
+language: go
+
+go:
+  - tip
+
+script:
+  - go test ./... -bench . -v --coverprofile=c.out -benchmem && go tool cover -func=c.out
