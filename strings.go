@@ -1,4 +1,4 @@
-// Package strings is a helper library written in Go for work with strings.
+// Package strings is a helper library written in Go for working with strings.
 package strings
 
 import (

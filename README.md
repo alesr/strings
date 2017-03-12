@@ -1,5 +1,5 @@
 # strings [![Build Status](https://travis-ci.org/alesr/strings.svg?branch=master)](https://travis-ci.org/alesr/strings)
-Package strings is a helper library written in Go for work with strings.
+Package strings is a helper library written in Go for working with strings.
 
 ### PACKAGE DOCUMENTATION
 
@@ -7,7 +7,7 @@ Package strings is a helper library written in Go for work with strings.
 package strings
     import "github.com/alesr/strings"
 
-    Package strings is a helper library written in Go for work with strings.
+    Package strings is a helper library written in Go for working with strings.
 ```
 
 ### FUNCTIONS
