@@ -1,4 +1,4 @@
-# strings
+# strings [![Build Status](https://travis-ci.org/alesr/strings.svg?branch=master)](https://travis-ci.org/alesr/strings)
 Package strings is a helper library written in Go for work with strings.
 
 ### PACKAGE DOCUMENTATION
